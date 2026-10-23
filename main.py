@@ -21,6 +21,6 @@
 #     print('Run')
 # else:
 #     print(':)')
-# start stop and step kgIYgjv
+# start stop and step
 for x in range(0, 10, 1):
     print(x)
