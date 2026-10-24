@@ -20,7 +20,7 @@
 # if not(x == y and x + y == 5):
 #     print('Run')
 # else:
-#     print(':)') print fuk ka a
+#     print(':)') print fuk ka 
 # start stop and step
 for x in range(0, 10, 1):
     print(x)
