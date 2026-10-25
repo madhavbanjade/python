@@ -1,3 +1,5 @@
+import math
+import myModule
 # print ('Enter a number:')
 # num1 = input()
 # print('Enter a number')
@@ -77,14 +79,19 @@
 # print(newlist)
 
 # writing to a file this means overwritting the whole file 
-file = open('file.txt', 'w') 
-f = file.write('iphone 11 \n')
-f = file.write('bedsheet')
+# file = open('file.txt', 'w') 
+# f = file.write('iphone 11 \n')
+# f = file.write('bedsheet')
 
-print(f)
-file.close()
+# print(f)
+# file.close()
 
-# .find and .count in string not other langauges includes this 
-fruits = "mangokbihhlihbwihbihhbweiebifhwbihfbqihbhpibvpiqwba"
-print(fruits.count("b"))
+# # .find and .count in string not other langauges includes this 
+# fruits = "mangokbihhlihbwihbihhbweiebifhwbihfbqihbhpibvpiqwba"
+# print(fruits.count("b"))
 
+# introduction to moduler program
+
+
+print(math.pi)
+print(myModule.func(1))
