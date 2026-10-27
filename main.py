@@ -93,5 +93,21 @@ import myModule
 # introduction to moduler program  iugiy
 
 
-print(math.pi)
-print(myModule.func(1))
+# print(math.pi)
+# print(myModule.func(1))
+
+
+# optional paramaters 
+def func(x, text='hello'):
+  print(x)
+  print(text)
+  func(3, 'text')
+# try expect
+text = input('Username:')
+try:
+   number = int(text)
+
+   print(number)
+except:
+   print('Invalid username')
+
