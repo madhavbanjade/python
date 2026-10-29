@@ -34,7 +34,7 @@
 #           print('Hi My name is', self.name, 'and my average is', sum/3)
 
 
-# s1 = Student("Madhav", [60, 68, 40])
+# s1 = Student("Madhav", [60, 68, 40]) iuigiuugiac
 # s1.get_avg()
 
 
