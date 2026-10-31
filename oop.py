@@ -33,8 +33,8 @@
 #                sum += val
 #           print('Hi My name is', self.name, 'and my average is', sum/3)
 
-
-# s1 = Student("Madhav", [60, 68, 40]) uuuuuyy
+ 
+# s1 = Student("Madhav", [60, 68, 40]) uuuuuyy ydt
 # s1.get_avg()
 
 
