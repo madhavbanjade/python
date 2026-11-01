@@ -31,7 +31,7 @@
 #           sum = 0
 #           for val in self.marks:
 #                sum += val
-#           print('Hi My name is', self.name, 'and my average is', sum/3) madhav 
+#           print('Hi My name is', self.name, 'and my average is', sum/3) 
 
  
 # s1 = Student("Madhav", [60, 68, 40]) uuuuuyy ydt
