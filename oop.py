@@ -35,7 +35,7 @@
 
  
 # s1 = Student("Madhav", [60, 68, 40])
-# s1.get_avg() veiyyyvfy
+# s1.get_avg()
 
 
 class Account:
