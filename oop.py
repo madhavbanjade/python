@@ -35,7 +35,6 @@
 
  
 # s1 = Student("Madhav", [60, 68, 
-# s1.get_avg() vw w3
 
 
 class Account:
