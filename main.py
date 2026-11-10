@@ -101,7 +101,7 @@ import myModule
 def func(x, text='hello'):
   print(x)
   print(text)
-  func(3, 'text')
+#   func(3, 'text')  vj
 # try expect
 text = input('Username:')
 try:
