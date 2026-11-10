@@ -33,8 +33,7 @@
 #                sum += val
 #           print('Hi My name is', self.name, 'and my average is', sum/3)  jgvjv
 
- 
-# s1 = Student("Madhav", [60, 68, 
+  # s1 = Student("Madhav", [60, 68,  fufufufu
 
 
 class Account:
